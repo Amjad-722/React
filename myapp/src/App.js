@@ -1,11 +1,8 @@
-// import logo from './logo.svg';
 import './App.css';
 
 function App() {
     let arr = 'amjad'
-
     console.log(arr )
-
   return (
     <div>
       <nav id="Navbar">
