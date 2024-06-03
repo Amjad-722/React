@@ -1,12 +1,11 @@
 import './App.css';
 
 function App() {
-    let arr = 'amjad'
-    console.log(arr )
+    
   return (
     <div>
       <nav id="Navbar">
-        <div className="logo">{arr}</div>
+        <div className="logo"></div>
         <div className="UlNavbar">
           <ul>
             <li className="dropdown">
