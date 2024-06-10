@@ -1,0 +1,12 @@
+* body{
+
+  display: flex;
+  justify-content: center;
+  background:rgb(208, 163, 163);
+  font-size: 26px;
+  width: 100%;
+  column-gap: 34px;
+}
+.body{
+  width: 100%;
+}
